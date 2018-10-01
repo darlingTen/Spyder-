@@ -1,0 +1,8 @@
+command + 1     means  注释/反注释
+command + 4/5   means  块注释/反块注释
+command + L     means  跳转到行号
+command + i     means  显示帮助
+command + g     means  查找函数定义
+(shift + ) tab  means  (反)缩进
+
+more shortcut keys in Spider preferences
